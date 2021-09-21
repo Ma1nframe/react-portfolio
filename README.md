@@ -1,6 +1,6 @@
-# UPDATE
+# React Projects 
 
-I have put the React Development Journey on pause for now. I am seeking a position within Salesforce, and although React is supported on Visualforce Pages I am opting to dive all in on their Platform's flagship framework "Lightning Web Components". It isn't great by any means as an open source Javascript framwork but it suits Salesforce perfectly and it looks to be on the precibus of an explosion in growth over the next couple of years. Although they have designed their own version tracking system, I will be documenting my updates and learning guides through another repo here on GitHub as well for anyone that wants to follow along and learn one of the fastest growing in-demand Javascript frameworks. 
+These are several react projects I have hosted on separate repos which I decided to combine into one.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
